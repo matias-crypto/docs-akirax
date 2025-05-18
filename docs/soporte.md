@@ -14,8 +14,8 @@ En **Akirax**, tu satisfacción es nuestra prioridad. Si tenés dudas, problemas
   [Grupo Oficial](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)  
 Contacto directo con atención personalizada.
 
-- **Sistema de tickets**
- [Tickets](https://home.akirax.net/tickets)
+- **Sistema de
+ [Tickets]**(https://home.akirax.net/tickets)
 Ideal si necesitas más ayuda con más detalles
 
 ---
