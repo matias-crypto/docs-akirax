@@ -2,7 +2,7 @@
 
 ![Akirax](https://files.catbox.moe/b6c5er.jpg)
 
-[![GitHub forks](https://img.shields.io/github/forks/inirey/API-COLLECTION?style=social)](https://github.com/inirey/API-COLLECTION/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/inirey/API-COLLECTION?style=social)](https://github.com/inirey/API-COLLECTION/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/matias-crypto/docs-akirax?style=social)](https://github.com/inirey/API-COLLECTION/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/matias-crypto/docs-akirax?style=social)](https://github.com/inirey/API-COLLECTION/stargazers)
 
 Bienvenido a **Akirax**, tu solución confiable y especializada para alojar proyectos en **Node.js**, **Go** y **Java**, ya sean APIs, bots o páginas web.  
 Nuestra plataforma fue diseñada pensando en desarrolladores como vos, que buscan facilidad, velocidad y estabilidad para desplegar sus servicios.
