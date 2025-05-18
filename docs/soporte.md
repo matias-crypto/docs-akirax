@@ -15,7 +15,7 @@ En **Akirax**, tu satisfacción es nuestra prioridad. Si tenés dudas, problemas
 Contacto directo con atención personalizada.
 
 - **Sistema de
- [Tickets]**(https://home.akirax.net/tickets)
+ [Tickets](https://home.akirax.net/tickets)**
 Ideal si necesitas más ayuda con más detalles
 
 ---
