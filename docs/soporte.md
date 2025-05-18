@@ -6,15 +6,18 @@ En **Akirax**, tu satisfacción es nuestra prioridad. Si tenés dudas, problemas
 
 ## Canales de atención
 
-- **WhatsApp:**  
+- **WhatsApp:** 
+
   [Hablar con soporte](https://wa.me/51953265359)  
   Ideal para consultas detalladas, envío de capturas o archivos adjuntos.
 
 - **Grupo Oficial**  
+
   [Grupo Oficial](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)  
 Contacto directo con atención personalizada.
 
 - **Sistema de tickets**
+
  [Página Tickets](https://home.akirax.net/tickets)
 Ideal si necesitas más ayuda con más detalles
 
