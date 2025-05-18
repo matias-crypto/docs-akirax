@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Akirax Host</title>
+  <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background-color: #ffffff;
+      color: #000000;
+    }
+    a {
+      color: #0066cc;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">Cargando documentación...</div>
+  <script>
+    window.$docsify = {
+      name: 'Akirax Host',
+      repo: 'https://github.com/inirey/API-COLLECTION',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      themeColor: '#4CAF50',
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+</body>
+</html>
