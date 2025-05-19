@@ -18,7 +18,7 @@ Contacto directo con atención personalizada.
 
 - **Sistema de tickets**
 
- [Página Tickets](https://home.akirax.net/tickets)
+ [Página de tickets](https://home.akirax.net/tickets)
 Ideal si necesitas más ayuda con más detalles
 
 ---
