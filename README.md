@@ -21,7 +21,7 @@ Akirax es una plataforma de hosting optimizada para aplicaciones modernas de tod
 - **Soporte para múltiples entornos**: Node.js, Go y Java.
 - **Monitor en tiempo real** del uso de recursos.
 - **Panel intuitivo** para la gestión de proyectos.
-- **Precios económicos** para cada de tus necesidades.
+- **Precios económicos** para cada una de tus necesidades.
 - **Soporte técnico dedicado** en cualquier hora.
 
 ---
