@@ -38,7 +38,7 @@ Akirax es una plataforma de hosting optimizada para aplicaciones modernas de tod
 
 ## Comunidad y soporte
 
-- Sitio web oficial: [akirax.host](https://home.akirax.net)
+- Sitio web oficial: [Akirax Host](https://home.akirax.net)
 - Grupo de soporte: [WhatsApp Oficial](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
 - Canal Oficial: [Canal Oficial](https://whatsapp.com/channel/0029VbBCchVDJ6H6prNYfz2z)
 
