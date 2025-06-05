@@ -4,6 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" href="https://files.catbox.moe/b6c5er.jpg" type="image/png">
+<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/pagination.min.js"></script>
   <title>Akirax Host</title>
   <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
   <style>
@@ -26,13 +29,34 @@
   <div id="app">Cargando documentación...</div>
   <script>
     window.$docsify = {
-      name: 'Akirax Host',
-      repo: 'https://github.com/matias-crypto/docs-akirax',
-      loadSidebar: true,
-      subMaxLevel: 2,
-      themeColor: '#4CAF50',
-    }
+  name: 'Akirax Host',
+  repo: 'https://github.com/matias-crypto/docs-akirax',
+  logo: 'https://files.catbox.moe/b6c5er.jpg',
+  themeColor: '#4CAF50',
+  loadSidebar: true,
+  subMaxLevel: 2,
+  search: 'auto',
+  pagination: {
+    previousText: 'Anterior',
+    nextText: 'Siguiente',
+    crossChapter: true,
+    crossChapterText: true,
+  },
+  scrollToTop: true,
+  copyCode: {
+    buttonText: 'Copiar',
+    errorText: 'Error',
+    successText: 'Copiado!'
+  },
+  toc: {
+    scope: '.markdown-section',
+    headings: 'h1, h2, h3'
+  },
+}
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/toc.min.js"></script>
+
 </body>
 </html>
